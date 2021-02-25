@@ -1,0 +1,6 @@
+{
+    "no_cop_menu": "No Cop",
+    "no_cop_menu_desc": "No cops will be spawned except scripted.",
+    "no_cop_enable_toggle": "Enable No Cop",
+    "no_cop_enable_toggle_desc": ""
+}

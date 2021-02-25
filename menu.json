@@ -1,0 +1,17 @@
+{
+    "menu_id": "no_cop_menu",
+    "parent_menu_id": "blt_options",
+    "title": "no_cop_menu",
+    "description": "no_cop_menu_desc",
+    "items": [
+        {
+            "type": "toggle",
+            "id": "json_menu_toggle",
+            "title": "no_cop_enable_toggle",
+            "description": "no_cop_enable_toggle_desc",
+            "callback": "no_cop_callback_enable_toggle",
+            "value": "enable_value",
+            "default_value": true
+        }
+    ]
+}

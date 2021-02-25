@@ -1,0 +1,14 @@
+{
+    "name": "No Cop",
+    "description": "No cops will be spawned except scripted.",
+    "author": "forewing",
+    "contact": "",
+    "version": "0.1.0",
+    "priority": 10,
+    "hooks": [
+        {
+            "hook_id": "lib/tweak_data/groupaitweakdata",
+            "script_path": "NoCop.lua"
+        }
+    ]
+}
